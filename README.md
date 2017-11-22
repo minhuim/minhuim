@@ -1,2 +1,3 @@
 # minhuim
-first one
+
+Hello everyone, this is my first try on GitHub.
